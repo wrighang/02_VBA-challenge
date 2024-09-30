@@ -10,15 +10,15 @@ The percentage change from the opening price at the beginning of a given quarter
 
 The total stock volume of the stock. The result should match the following image:
 
-Moderate solution
+*Not included
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
-Hard solution
+*Not included
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
 
-note
+note:
 Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
 Other Considerations
