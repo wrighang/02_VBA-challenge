@@ -1,4 +1,42 @@
 # VBA-challenge
+
+## Requirements
+
+## Retrieval of Data
+The script loops through one quarter of stock data and reads/stores all of the following values from each row:
+- Ticker symbol
+- Volume of stock
+- Open price
+- Close price
+
+## Column Creation
+On the same worksheet as the raw data, or on a new worksheet, all columns were correctly created for:
+- Ticker symbol
+- Total stock volume
+- Quarterly change ($)
+- Percent change
+
+## Conditional Formatting
+Conditional formatting is applied correctly and appropriately to:
+- Quarterly change column
+- Percent change column
+
+## Calculated Values
+All three of the following values are calculated correctly and displayed in the output:
+- Greatest % Increase
+- Greatest % Decrease
+- Greatest Total Volume
+
+## Looping Across Worksheet
+The VBA script can run on all sheets successfully.
+
+## GitHub/GitLab Submission
+All three of the following are uploaded to GitHub/GitLab:
+- Screenshots of the results
+- Separate VBA script files
+- README file
+-------------------------------------------------
+
 Included in repository: 
 1. Screenshots of the results 
 2. Separate VBA script files
